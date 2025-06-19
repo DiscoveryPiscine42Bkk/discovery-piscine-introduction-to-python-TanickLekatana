@@ -1,7 +1,7 @@
 farm_tasks = []
 
 def display_menu():
-    print("\n===== Smart Farm Task Organizer =====")
+    print("\n===== Smart Farm TUG TUG TUG =====")
     print("1. เพิ่มงานในฟาร์ม")
     print("2. แสดงรายการงานทั้งหมด")
     print("3. ลบงาน")
